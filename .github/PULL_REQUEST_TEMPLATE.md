@@ -7,30 +7,30 @@
 
 <!--- Fill in the details below before sending us a pull request -->
 
-Name : 
+Name : Nivas Manduva
 
-Registration Number :
+Registration Number : 19bcd7012
 
-Email Address :
+Email Address : nivas.19bcd7012@vitap.ac.in
 
-Frameworks I have worked on :
+Frameworks I have worked on : TensorFlow, Flask, Unity
 
-Tools I have used : 
+Tools I have used : JSON, BeautifulSoup, SQL, Python, Linux
 
 <!--- To mark a checkbox, just add an x between the square brackets.
       Example : [ ] becomes [x] -->
       
 Tick the check boxes below if true : 
 
-- [ ] I know to use Git and GitHub (or willing to learn).
+- [x] I know to use Git and GitHub (or willing to learn).
 
-- [ ] This is my first Open Source Project.
+- [x] This is my first Open Source Project.
 
-- [ ] I have programmed on Python.
+- [x] I have programmed on Python.
 
 - [ ] I have worked on Django projects before.
 
-- [ ] I know the basics of Shell Scripting (Optional).
+- [x] I know the basics of Shell Scripting (Optional).
 
 <br>
 
